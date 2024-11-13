@@ -15,8 +15,10 @@ AUDIT_KERNEL_MODULES_MAKEFILE = src/spade/reporter/audit/kernel-modules/Makefile
 # sudo ln -s  llvm-3.6/llvm/ llvm
 # sudo ln -s  llvm-c-3.6/llvm-c/ llvm-c
 #
+# LLVM_INCLUDE_PATH=/usr/lib/llvm-11/include/
 LLVM_INCLUDE_PATH=/usr/include/llvm-3.6/
  
+#LLVM_PATH = /usr/lib/llvm-11
 LLVM_PATH = /var/clang+llvm-3.0-x86_64-apple-darwin11
 # LLVM_TARGET = nweb
  

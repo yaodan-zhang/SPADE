@@ -1,0 +1,6 @@
+list reporters
+list storages
+list filters
+list transformers
+list sketches
+exit
